@@ -30,8 +30,7 @@ Check out the live demo of this project:
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+6. 🔗 [License](#license)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -1192,7 +1191,8 @@ export const Notifications = () => {
 </details>
 
 
-## License 📜
+## <a name="license">📜 License</a>
+
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 
