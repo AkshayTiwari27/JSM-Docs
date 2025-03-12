@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JSM_Docs
 =======
 <div align="center">
