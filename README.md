@@ -1,4 +1,4 @@
-# JSM_Docs
+# JSMDocs
 
 <div align="center">
   <br />
